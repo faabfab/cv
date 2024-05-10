@@ -1,0 +1,6 @@
+.container {
+  display: flex;
+  &_left {
+    width: 150px;
+  }
+}
